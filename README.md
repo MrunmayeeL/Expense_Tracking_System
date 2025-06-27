@@ -38,4 +38,4 @@ Built entirely in C, this application simulates a basic database using:
 
 ### Compile
 ```bash
-gcc -o expense_tracker with_delete2.c
+gcc -o expense_tracker Expense_tracking.c
